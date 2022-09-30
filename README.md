@@ -13,3 +13,5 @@ App Screenshots
 ------------
 <img src="https://user-images.githubusercontent.com/111753644/193263080-0ef9a020-c834-4e93-8a7c-1790bd51bae6.png" style="border:0px;width:250px;">  <img src="https://user-images.githubusercontent.com/111753644/193263090-b8173840-e78a-42d5-ac3c-a408e1c661c4.png" style="border:0px;width:250px;">
 <img src="https://user-images.githubusercontent.com/111753644/193263097-96353a21-f0dc-4ead-a55b-a5c31ef7625d.png" style="width:250px"> 
+https://smartinternz.com/Student/dashboard
+https://youtu.be/n0xZytXSSH8
